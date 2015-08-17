@@ -1,0 +1,10 @@
+View List:
+	/mgr
+		用户管理路径
+		/login  
+			用户登陆页面
+			The page of user login
+		/logout
+			用户注销页面
+			The page of user logout
+	
